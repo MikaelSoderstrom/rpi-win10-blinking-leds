@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="rpi_win10_blinking_leds.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:rpi_win10_blinking_leds"
+    RequestedTheme="Light">
+
+</Application>
